@@ -1,0 +1,1 @@
+mkdir Situationsplan Planritningar Fasadritningar Sektionsritningar Teknisk_beskrivning Kontrollplan Grannemedgivande
